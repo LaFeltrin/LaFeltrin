@@ -27,4 +27,3 @@ Estou aberta a colaborar em projetos interessantes e desafiadores. Sinta-se à v
 Agradeço por visitar meu perfil no GitHub. Se você tiver alguma sugestão ou feedback para mim, por favor, entre em contato. Estou sempre interessada em ouvir sua opinião!
 
 
-![Snake animation](https://github.com/LaFeltrin/LaFeltrin/blob/output/github-contribution-grid-snake.svg)
